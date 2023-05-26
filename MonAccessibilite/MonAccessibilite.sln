@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonAccessibilite.Server", "Server\MonAccessibilite.Server.csproj", "{446D831B-78FF-459B-81FC-6D5B7409E58C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonAccessibilite.Client", "Client\MonAccessibilite.Client.csproj", "{721D1CF1-3210-409C-AE93-275B93341C60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonAccessibilite.Shared", "Shared\MonAccessibilite.Shared.csproj", "{6EBA5D7C-4F5C-41EF-90EA-80E6299AE8E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{446D831B-78FF-459B-81FC-6D5B7409E58C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{446D831B-78FF-459B-81FC-6D5B7409E58C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{446D831B-78FF-459B-81FC-6D5B7409E58C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{446D831B-78FF-459B-81FC-6D5B7409E58C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{721D1CF1-3210-409C-AE93-275B93341C60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{721D1CF1-3210-409C-AE93-275B93341C60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{721D1CF1-3210-409C-AE93-275B93341C60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{721D1CF1-3210-409C-AE93-275B93341C60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EBA5D7C-4F5C-41EF-90EA-80E6299AE8E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EBA5D7C-4F5C-41EF-90EA-80E6299AE8E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EBA5D7C-4F5C-41EF-90EA-80E6299AE8E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EBA5D7C-4F5C-41EF-90EA-80E6299AE8E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
